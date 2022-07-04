@@ -1,8 +1,8 @@
 module.exports = {
-        TOKEN: 'NjQ4NTk2MTYxNTEwNTA2NTA2.XdwkBw.WhB1E0MfwHZcjzxcNhNeUcY42bg', //your discord bot token
+        TOKEN: 'XXXXXX', //your discord bot token
         PREFIX: '?',
         playing: '',
-		GOOGLE_API_KEY : "AIzaSyBE7tWsfg6xCFx6N2A4GdMpCxEY9MamOEs",
+		GOOGLE_API_KEY : "XXXXXX",
 		clientId : "648596161510506506",
 
     opt: {
